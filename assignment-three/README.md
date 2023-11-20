@@ -21,9 +21,10 @@ A simple React Todo App featuring user authentication, dynamic routing, and basi
 ![assignment-three](https://github.com/RohitKumarSinha/Josh-React-Training/blob/main/assignment-three/public/ReactToDo-4.png)
 ![assignment-three](https://github.com/RohitKumarSinha/Josh-React-Training/blob/main/assignment-three/public/React-ToDo-5.png)
 
+
 # Usage:
 
-Clone: git clone https://github.com/your-username/user-list-app.git
+Clone: git clone https://github.com/RohitKumarSinha/Josh-React-Training.git
 
 Install: npm install
 
