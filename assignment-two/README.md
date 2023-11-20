@@ -3,7 +3,7 @@ A simple React app utilizing Axios and useEffect() to fetch and display a list o
 
 # Usage:
 
-Clone: git clone https://github.com/your-username/user-list-app.git
+Clone: git clone https://github.com/RohitKumarSinha/Josh-React-Training.git
 
 Install: npm install
 
