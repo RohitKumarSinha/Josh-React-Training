@@ -2,7 +2,7 @@
 Welcome to the React Apps Assignments repository! Here, you'll find three engaging assignments to sharpen your React skills and create interactive web applications.
 
 # Assignment 1: Dynamic React App
-Build a dynamic React app that fetches and displays data from an external API. Emphasize responsive UI design and effective handling of asynchronous operations.
+A simple React app enabling dynamic list management. Users can add items with a "Remove" button for each
 
 # Assignment 2: User List React App
 Craft a React app managing a user list, featuring functionalities for adding, editing, and deleting users. Pay attention to form validation and ensure a seamless user experience.
