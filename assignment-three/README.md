@@ -21,3 +21,7 @@ Clone: git clone https://github.com/your-username/user-list-app.git
 Install: npm install
 
 Start: npm start
+
+# ScreenShot of the Assignment
+![assignment-two](https://github.com/RohitKumarSinha/Josh-React-Training/blob/main/assignment-two/public/userListApp.png)
+
