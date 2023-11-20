@@ -9,3 +9,11 @@ A simple React app utilizing Axios and useEffect() to fetch and display a list o
 
 # Assignment 3: Todo React App
 A simple React Todo App featuring user authentication, dynamic routing, and basic CRUD operations. Users can log in to manage their todos, add new tasks, and remove completed items. The app utilizes React, React Router for navigation and the Context API for user authentication. Styling is achieved through inline CSS. To get started, clone the repository, install dependencies, and run the app. The project structure is organized into components and styles folders.
+
+# Usage:
+
+Clone: git clone https://github.com/RohitKumarSinha/Josh-React-Training.git
+
+Install: npm install
+
+Start: npm start
