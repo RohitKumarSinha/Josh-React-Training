@@ -17,5 +17,7 @@ A simple React Todo App featuring user authentication, dynamic routing, and basi
 # Usage:
 
 Clone: git clone https://github.com/your-username/user-list-app.git
+
 Install: npm install
+
 Start: npm start
