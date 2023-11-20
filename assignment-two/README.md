@@ -8,3 +8,6 @@ Clone: git clone https://github.com/RohitKumarSinha/Josh-React-Training.git
 Install: npm install
 
 Start: npm start
+
+# ScreenShot of the Assignment
+![assignment-two](https://github.com/RohitKumarSinha/Josh-React-Training/blob/main/assignment-one/public/Dynamic_React_App.png)
