@@ -3,7 +3,7 @@ A straightforward React app showcasing routing and API interaction. Key function
 
 # Features
   post page - for uploading the data
-
+  
   Get Page - for viewing the data
 
   red alert - Users are prompted with a red alert if either the title or price fields are left empty. This ensures that only complete data is submitted.
