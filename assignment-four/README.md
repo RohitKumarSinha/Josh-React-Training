@@ -1,5 +1,5 @@
 # React API Interaction App
-Explore a dynamic React app that seamlessly integrates routing and API interactions. The "Post Page" allows users to submit data, including a title and price, to a designated API endpoint (here API endpoint is https://dummyjson.com'). The app utilizes the postApi function, posting the data to the server. Meanwhile, the "Get Page" fetches and displays the posted data by hitting the API endpoint and handling the response. Developed with React, TypeScript, and Bootstrap, this app provides a clean and responsive user interface.
+Explore a dynamic React app that seamlessly integrates routing and API interactions. The "Post Page" allows users to submit data, including a title and price, to a designated API endpoint (here API endpoint is https://dummyjson.com'). The app utilizes the postApi function, posting the data. Meanwhile, the "Get Page" fetches and displays the posted data by hitting the API endpoint and handling the response. Developed with React, TypeScript, and Bootstrap, this app provides a clean and responsive user interface.
 
 # Features
   post page - for uploading the data
